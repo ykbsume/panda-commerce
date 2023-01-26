@@ -20,3 +20,25 @@
 .container{
     margin-bottom: 100px;
 }
+.cat-1,.cat-2,.cat-3{
+ padding:10px 30px;
+ border-radius: 10px;
+
+}
+.cat-1{
+    background-image: linear-gradient(to top, blue 10%, green 90%);
+}
+.cat-2{
+    background-image: linear-gradient(to top, yellow 20%, green 80% );
+}
+.cat-3{
+    background-image: linear-gradient( to bottom, green 20%, blue 80%)
+}
+.categories h1{
+    color: #FEEAE9;
+    
+}
+.categories img{
+    width:100px;
+
+}
