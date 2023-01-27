@@ -32,7 +32,8 @@
     background-image: linear-gradient(to top, yellow 20%, green 80% );
 }
 .cat-3{
-    background-image: linear-gradient( to bottom, green 20%, blue 80%)
+    background-image: linear-gradient( to bottom, 
+     green 20%, blue 80%);
 }
 .categories h1{
     color: #FEEAE9;
@@ -41,4 +42,16 @@
 .categories img{
     width:100px;
 
+}
+.shoemargin{
+    margin: 100px;
+    
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+.foot{
+    text-align: center;
 }
